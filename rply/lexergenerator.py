@@ -111,4 +111,5 @@ class LexerGenerator(object):
         called with a string and returns an iterator yielding
         :class:`~rply.Token` instances.
         """
+        self.add("MISMATCH", r'.')
         return Lexer(self.rules, self.ignore_rules)
