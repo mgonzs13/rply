@@ -121,3 +121,10 @@ Links
 * `Talk at PyCon US 2013: So you want to write an interpreter? <http://pyvideo.org/video/1694/so-you-want-to-write-an-interpreter>`_
 
 .. _`online`: https://rply.readthedocs.io/
+
+
+Installation
+-----
+
+sudo python3 setup.py install
+prueba
